@@ -5,11 +5,18 @@ body {
     color:white;
 /*    color: #c9c9f1; */
     background-color: #0d0d23;
-    font:18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+/*    font:18px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; */
+      font-family: Fira Sans, Arial, sans-serif;
+
     color:#444}h1,h2,h3 {
         line-height:1.2
         }
 }
+
+h1, h2, h3, h4, h5, h6 {
+      font-family: Fira Sans, Arial, sans-serif;
+}
+
 
 a {
   text-decoration: none;
@@ -58,4 +65,14 @@ span.sitelarge {
   font-weight: medium;
   font-size: 18px;
   opacity: 0.75;
+}
+
+p.fira {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: medium;
+}
+
+h.fira {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: medium;
 }
