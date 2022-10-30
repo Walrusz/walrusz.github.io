@@ -9,17 +9,6 @@ body {
     color:#444}h1,h2,h3 {
         line-height:1.2
         }
-
-/*    @media (prefers-color-scheme: dark) {
-        body {
-            color:#c9c9f1;background:#0d0d23
-        }
-        a:link {
-            color:#58a6ff
-        }
-        a:visited {
-            color:#8e96f0
- */       }
 }
 
 a {
@@ -31,7 +20,7 @@ a {
 
 a:link { text-decoration: none; color: #58a6ff; }
 
-a:visited { text-decoration: none; color: #8e96f0; }
+a:visited { text-decoration: none; color: #58a6ff; }
 
 a:hover { text-decoration: none; }
 
