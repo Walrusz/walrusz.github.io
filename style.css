@@ -1,5 +1,5 @@
 body {
-    max-width:800px;
+    max-width:700px;
     margin:40px auto;
     padding:0 10px;
     color:white;
@@ -49,7 +49,7 @@ button.fancy {
   border: none;
   border-radius: 10px;
   padding: 2px 20px 5px 10px;
-  width: 110px;
+  width: 100px;
   
   cursor: pointer;
   
