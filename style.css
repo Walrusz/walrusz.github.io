@@ -7,14 +7,13 @@ body {
     background-color: #0d0d23;
     font-family: Fira Sans, Arial, sans-serif;
     /*font-weight: medium; */
-    color:#444}h1,h2,h3 {
-        line-height:1.2
-        }
+    color:#444
 }
 
 h1, h2, h3, h4, h5, h6 {
       font-family: Fira Sans, Arial, sans-serif;
       font-weight: medium;
+      line-height:1.5;
 
 }
 
