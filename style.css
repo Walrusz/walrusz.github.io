@@ -57,14 +57,14 @@ button.fancy {
   white-space: nowrap;
 }
 
-span.site {
+span.sitesmall {
   font-family: 'Fira Sans', sans-serif;
   font-weight: medium;
   font-size: 12px;
   opacity: 0.5;
 }
 
-span.handle {
+span.sitelarge {
   font-family: 'Fira Sans', sans-serif;
   font-weight: medium;
   font-size: 18px;
