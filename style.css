@@ -33,6 +33,13 @@ p.post {
   width: 1.0;
 }
 
+#orangeThing {
+  border-radius: 12px;
+  background: #47271b;
+  padding: 10px; 
+  width: 1.0;
+}
+
 li {
 	  font-size: 18px;
 }
@@ -120,4 +127,23 @@ p.fira {
 h.fira {
   font-family: 'Fira Sans', sans-serif;
   font-weight: medium;
+}
+
+table.center {
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 12px;
+	border-spacing: 0;
+    font-size: 18px;
+    font-size: 18px;
+    opacity: 0.75;
+    background: #47271b;
+}
+
+table.center td, 
+table.center th { 
+  padding: 10px; 
+  }
+table.roundedCorners tr:last-child > td {
+  border-bottom: none;
 }
