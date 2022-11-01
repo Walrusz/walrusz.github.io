@@ -142,9 +142,9 @@ table.center {
 	border-radius: 12px;
 	border-spacing: 0;
     font-size: 18px;
-    font-size: 18px;
-    opacity: 0.75;
     background: #47271b;
+    color: #fff;
+    opacity: 0.75;
 }
 
 table.center td, 
