@@ -49,6 +49,8 @@ p.post {
 
 li {
 	  font-size: 18px;
+	  color: #fff;
+      opacity: 0.75;
 }
 
 div.buttonline {
