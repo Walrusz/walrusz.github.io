@@ -7,7 +7,6 @@ body {
     background-color: #0d0d23;
     font-family: Fira Sans, Arial, sans-serif;
     /*font-weight: medium; */
-    color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -18,9 +17,14 @@ h1, h2, h3, h4, h5, h6 {
       opacity: 0.75;
 }
 
-p, div {
+p {
 	  font-size: 18px;
 	  line-height:1.5;
+}
+
+div.list {
+	  font-size: 18px;
+	  line-height:1.2;
       color: #fff;
       opacity: 0.75;
 }
@@ -51,6 +55,8 @@ li {
 	  font-size: 18px;
 	  color: #fff;
       opacity: 0.75;
+      line-height:1.5;
+
 }
 
 div.buttonline {
