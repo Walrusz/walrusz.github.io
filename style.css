@@ -44,6 +44,13 @@ p.post {
   width: 1.0;
 }
 
+#cyanThing {
+  border-radius: 12px;
+  background: #1b3647;
+  padding: 10px; 
+  width: 1.0;
+}
+
 #orangeThing {
   border-radius: 12px;
   background: #47271b;
