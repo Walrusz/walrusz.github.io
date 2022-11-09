@@ -90,7 +90,7 @@ button.fancy {
   border: none;
   border-radius: 10px;
   padding: 2px 20px 5px 10px;
-  width: 116px;
+  width: 176px;
   
   cursor: pointer;
   
@@ -112,6 +112,27 @@ button.wider {
   border-radius: 10px;
   padding: 2px 20px 5px 10px;
   width: 356px;
+  
+  cursor: pointer;
+  
+  color: #fff;
+  
+  text-align: left;
+  
+  font-weight: 600;
+  line-height: 20px;
+
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+button.channel {
+  appearance: none;
+  border: none;
+  border-radius: 10px;
+  padding: 2px 20px 5px 10px;
+  width: 100%;
   
   cursor: pointer;
   
