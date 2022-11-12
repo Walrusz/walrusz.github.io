@@ -190,3 +190,8 @@ table.center th {
 table.roundedCorners tr:last-child > td {
   border-bottom: none;
 }
+
+ .dynamiclogo{
+     width:100%;
+     max-width:370px;
+ }
