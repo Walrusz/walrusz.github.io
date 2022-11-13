@@ -111,7 +111,8 @@ button.wider {
   border: none;
   border-radius: 10px;
   padding: 2px 20px 5px 10px;
-  width: 356px;
+  width: 100%;
+  max-width: 356px;
   
   cursor: pointer;
   
