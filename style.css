@@ -106,6 +106,50 @@ button.fancy {
   white-space: nowrap;
 }
 
+button.channelnew {
+  appearance: none;
+  border: none;
+  border-radius: 10px;
+  padding: 2px 20px 5px 10px;
+  width: 116px;
+  
+  cursor: pointer;
+  
+  color: #fff;
+  
+  text-align: left;
+  
+  font-weight: 600;
+  line-height: 20px;
+
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+button.medium {
+  appearance: none;
+  border: none;
+  border-radius: 10px;
+  padding: 2px 20px 5px 10px;
+  width: 100%;
+  max-width: 356px;
+    
+  cursor: pointer;
+  
+  color: #fff;
+  
+  text-align: left;
+  
+  font-weight: 600;
+  line-height: 20px;
+
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+
 button.wider {
   appearance: none;
   border: none;
@@ -147,6 +191,15 @@ button.channel {
   user-select: none;
   vertical-align: middle;
   white-space: nowrap;
+}
+
+@media (min-width: 720px ) {
+  button.medium {
+    width: 236px;
+  }
+  button.channelnew {
+  	width: 236px;
+  }
 }
 
 span.sitesmall {
