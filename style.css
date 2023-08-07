@@ -34,6 +34,14 @@ p.post {
       line-height:1.5;
       color: #fff;
       opacity: 0.75;
+}
+
+p.small {
+          font-size: 14px;
+      line-height:1.5;
+      color: #fff;
+      opacity: 0.75;
+      padding-left: 12px;
 
 }
 
