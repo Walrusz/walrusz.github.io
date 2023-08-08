@@ -135,6 +135,27 @@ button.double {
   white-space: nowrap;
 }
 
+button.double2 {
+  appearance: none;
+  border: none;
+  border-radius: 12px;
+  padding: 12px 12px 12px 12px;
+  width: 176px;
+  
+  cursor: pointer;
+  
+  color: #fff;
+  
+  text-align: left;
+  
+  font-weight: 600;
+  line-height: 20px;
+
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
 button.channelnew {
   appearance: none;
   border: none;
@@ -184,6 +205,28 @@ button.wider {
   border: none;
   border-radius: 10px;
   padding: 2px 20px 5px 10px;
+  width: 100%;
+  max-width: 356px;
+  
+  cursor: pointer;
+  
+  color: #fff;
+  
+  text-align: left;
+  
+  font-weight: 600;
+  line-height: 20px;
+
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+button.wider2 {
+  appearance: none;
+  border: none;
+  border-radius: 10px;
+  padding: 15px 20px 13px 10px;
   width: 100%;
   max-width: 356px;
   
