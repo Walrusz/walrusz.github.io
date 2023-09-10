@@ -45,6 +45,20 @@ p.small {
 
 }
 
+p.snippet {
+	  font-size: 16px;
+      line-height:1.5;
+      color: #fff;
+      opacity: 1.0;
+}
+
+p.snippetcomment {
+	  font-size: 16px;
+      line-height:1.5;
+      color: #fff;
+      opacity: 0.75;
+}
+
 #blueThing {
   border-radius: 12px;
   background: #1b1b47;
@@ -156,6 +170,27 @@ button.double2 {
   white-space: nowrap;
 }
 
+button.double2tall {
+  appearance: none;
+  border: none;
+  border-radius: 10px;
+  padding: 15px 20px 13px 10px;
+  width: 176px;
+  
+  cursor: pointer;
+  
+  color: #fff;
+  
+  text-align: left;
+  
+  font-weight: 600;
+  line-height: 20px;
+
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
 button.channelnew {
   appearance: none;
   border: none;
@@ -244,6 +279,23 @@ button.wider2 {
   white-space: nowrap;
 }
 
+button.flagbutton {
+  appearance: none;
+  border: none;
+  padding: 10px 10px 10px 10px;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  
+  color: #fff;
+  
+  text-align: center;
+  
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
 button.channel {
   appearance: none;
   border: none;
@@ -285,6 +337,13 @@ span.sitelarge {
   font-family: 'Fira Sans', sans-serif;
   font-weight: medium;
   font-size: 18px;
+  opacity: 0.75;
+}
+
+span.snippetinfo {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: medium;
+  font-size: 14px;
   opacity: 0.75;
 }
 
