@@ -333,6 +333,13 @@ span.sitesmall {
   opacity: 0.5;
 }
 
+span.sitemedium {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  opacity: 0.5;
+}
+
 span.sitelarge {
   font-family: 'Fira Sans', sans-serif;
   font-weight: medium;
